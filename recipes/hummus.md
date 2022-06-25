@@ -6,7 +6,7 @@ A chickpea purée without it is still quite delicious. Just add more olive oil. 
 Makes 6 servings or about 1 1/2 cups
 
 
-*spread, garbanzos*
+*spread, dip, garbanzos*
 
 **6 servings, 1 1/2 cups**
 
