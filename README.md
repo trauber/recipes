@@ -7,7 +7,7 @@ Well... I just can't seem to get kookbook to work on my machine. Bummer...
 
 
 
-
+- [Baba Ghanoush](recipes/baba-ghanoush.md)
 - [Harissa Rub](recipes/harissa-rub.md)
 - [Hummus](recipes/hummus.md)
 - [Pancakes](recipes/good_old_fashioned_pancakes.md)
