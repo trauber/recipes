@@ -15,7 +15,9 @@ Delicious eggplant dip. I make a small batch in a bowl with an immersion blender
 
 ---
 
-- Roast eggplant and remove skin.
-- In medium bowl blend well olive oil, lemon juice, yogurt, tahini, thinly sliced garlic.
-- Add eggplant and blend, but not too much. You want to have nice little chunks of eggplant.
+Roast eggplant and remove skin.
+
+In medium bowl blend well olive oil, lemon juice, yogurt, tahini, thinly sliced garlic.
+
+Add eggplant and blend, but not too much. You want to have nice little chunks of eggplant.
 
