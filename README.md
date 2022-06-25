@@ -1,9 +1,8 @@
-# recipes
-Food recipes for rendering with kde kookbook. This option seems too simple to pass up.
+# Recipes
 
-Well... I just can't seem to get kookbook to work on my machine. Bummer...
+Recipes in [recipemd](http://recipemd.org) format. The command line tool: validates the recipemd formatting, finds ingredients, finds tags, produces json, multiplies quantities. Pretty cool.
 
-[recipemd](http://recipemd.org), a plain text recipe parser in python, looks promising. One **really** nice feature is the quantity multiplier. And then there are the search and extraction utilities.
+I orginally tried kookbook, since that looked too simple to pass up. But I couldn't get it to work on my box (5.4.0-121-lowlatency #137-Ubuntu SMP PREEMPT Wed Jun 15 14:14:05 UTC 2022 x86_64).
 
 
 
@@ -12,3 +11,4 @@ Well... I just can't seem to get kookbook to work on my machine. Bummer...
 - [Hummus](recipes/hummus.md)
 - [Pancakes](recipes/good_old_fashioned_pancakes.md)
 - [Shakshuka](recipes/shakshuka.md)
+
