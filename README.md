@@ -7,6 +7,7 @@ I orginally tried kookbook, since that looked too simple to pass up. But I could
 
 
 - [Baba Ghanoush](recipes/baba-ghanoush.md)
+- [Banana Bread](recipes/banana-bread.md)
 - [Chicken Marbella](recipes/chicken_marbella.md)
 - [Harissa Rub](recipes/harissa-rub.md)
 - [Hummus](recipes/hummus.md)
