@@ -7,11 +7,31 @@ I orginally tried kookbook, since that looked too simple to pass up. But I could
 -->
 
 
+
 - [Baba Ghanoush](recipes/baba-ghanoush.md)
 - [Banana Bread](recipes/banana-bread.md)
 - [Chicken Marbella](recipes/chicken_marbella.md)
 - [Harissa Rub](recipes/harissa-rub.md)
 - [Hummus](recipes/hummus.md)
+- [Kachumbari](recipes/kachumbari.md)
 - [Pancakes](recipes/good_old_fashioned_pancakes.md)
 - [Shakshuka](recipes/shakshuka.md)
 - [Southwest Spice Rub](recipes/southwest-spice-rub.md)
+
+## Tags
+
+
+- [banana](tags/banana.md)
+- [breakfast](tags/breakfast.md)
+- [brunch](tags/brunch.md)
+- [condiment](tags/condiment.md)
+- [dessert](tags/dessert.md)
+- [dinner](tags/dinner.md)
+- [dip](tags/dip.md)
+- [eggplant](tags/eggplant.md)
+- [garbanzos](tags/garbanzos.md)
+- [lunch](tags/lunch.md)
+- [salad](tags/salad.md)
+- [spice](tags/spice.md)
+- [spread](tags/spread.md)
+
