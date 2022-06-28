@@ -19,5 +19,5 @@
 2. Soak onions in salt and water.
 3. Rinse brine off.
 4. Seed and mince chiles.
-4. Combine ingredients.
+5. Combine ingredients.
 
