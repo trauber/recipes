@@ -8,9 +8,12 @@ I orginally tried kookbook, since that looked too simple to pass up. But I could
 
 
 
+
+
 - [Baba Ghanoush](recipes/baba-ghanoush.md)
 - [Banana Bread](recipes/banana-bread.md)
 - [Chicken Marbella](recipes/chicken_marbella.md)
+- [Chicken Shawarma](recipes/chicken-shawarma.md)
 - [Harissa Rub](recipes/harissa-rub.md)
 - [Hummus](recipes/hummus.md)
 - [Kachumbari](recipes/kachumbari.md)
@@ -21,17 +24,24 @@ I orginally tried kookbook, since that looked too simple to pass up. But I could
 ## Tags
 
 
+
+- [Arabic](tags/Arabic.md)
 - [banana](tags/banana.md)
 - [breakfast](tags/breakfast.md)
 - [brunch](tags/brunch.md)
+- [Chicken](tags/Chicken.md)
 - [condiment](tags/condiment.md)
 - [dessert](tags/dessert.md)
 - [dinner](tags/dinner.md)
 - [dip](tags/dip.md)
+- [Eastern](tags/Eastern.md)
 - [eggplant](tags/eggplant.md)
 - [garbanzos](tags/garbanzos.md)
 - [lunch](tags/lunch.md)
+- [Middle](tags/Middle.md)
+- [Moroccan](tags/Moroccan.md)
 - [salad](tags/salad.md)
+- [shawarma](tags/shawarma.md)
+- [Shawarma](tags/Shawarma.md)
 - [spice](tags/spice.md)
 - [spread](tags/spread.md)
-
