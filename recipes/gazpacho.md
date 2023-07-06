@@ -2,7 +2,7 @@
 
 For a bright, refreshing summer soup, try Alton Brown's Gazpacho recipe, loaded with fresh, crunchy vegetables and herbs, from Good Eats on Food Network.
 
-![]({'@type': 'ImageObject', 'url': 'https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/6/10/0/EA1111H_gazpacho_s4x3.jpg.rend.hgtvcom.406.406.suffix/1382539742687.jpeg', 'height': '406', 'width': '406'}")
+![](https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/6/10/0/EA1111H_gazpacho_s4x3.jpg.rend.hgtvcom.406.406.suffix/1382539742687.jpeg)
 
 *appetizer, Vegetarian, Soup, Tomato, Vegetable, Appetizer*
 
