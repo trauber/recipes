@@ -6,7 +6,6 @@
 
 ---
 
-- Deselect All
 - *1* 4- to 5-pound chicken, cut into 8 pieces
 - Kosher salt and freshly ground black pepper
 - *1/2 cup* olive oil
