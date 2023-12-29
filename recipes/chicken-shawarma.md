@@ -2,7 +2,7 @@
 
 Recipe video above. The smell when this is cooking is outrageous! The marinade is very quick to prepare and the chicken can be frozen in the marinade, then defrosted prior to cooking. Best cooked on the outdoor grill / BBQ, but I usually make it on the stove. Serve with Yogurt Sauce (provided) or the Tahini sauce in this recipe. Add a simple salad and flatbread laid out on a large platter, then let everyone make their own wraps!
 
-*Chicken, Arabic, Middle Eastern, Moroccan, Chicken Shawarma, shawarma*
+*Chicken, Arabic, Middle_Eastern, Moroccan, Chicken Shawarma, shawarma*
 
 **4 - 5**
 

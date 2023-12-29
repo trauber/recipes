@@ -4,7 +4,7 @@ A celebrated dish in Mexico, this entree is all about the mole sauce — made wi
 
 ![]({'@type': 'ImageObject', 'url': 'https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/7/13/0/FNM_030110-Chicken-Mole_s4x3.jpg.rend.hgtvcom.406.406.suffix/1371599959117.jpeg', 'height': '406', 'width': '406', 'description': 'Food Styling - Jamie Kimm\nProp Styling - Marcus Hay'}")
 
-*main-dish, mexican, Easy Chicken, Chicken Recipes, Poultry, Easy Main Dish, Main Dish, Easy Lunch Recipes, Lunch, Mexican Chicken, Cinco de Mayo, Gluten Free, High Fiber*
+*main-dish, mexican, Chicken Recipes, Poultry, Mexican Chicken, Cinco_de_Mayo, Gluten_Free, High_Fiber*
 
 **4 servings**
 
